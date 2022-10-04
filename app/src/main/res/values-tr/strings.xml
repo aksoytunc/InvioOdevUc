@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InvioOdevUc</string>
+    <string name="searchText">Birşeyler ara</string>
+    <string name="popular_text">Popüler Ürünler</string>
+    <string name="recommended_text">Önerilen</string>
+    <string name="see_text">Hepsini gör</string>
+    <string name="chair_1">Hareketli San.</string>
+    <string name="price_1">2348.72₺</string>
+    <string name="chair_2">Modern San.</string>
+    <string name="price_2">2072.89₺</string>
+    <string name="chair_3">Gri Sandalye</string>
+    <string name="price_3">1486.06₺</string>
+    <string name="chair_4">Bahçe San.</string>
+    <string name="price_4">1756.79₺</string>
+</resources>

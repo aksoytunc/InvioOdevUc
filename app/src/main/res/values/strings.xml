@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InvioOdevUc</string>
+    <string name="searchText">Search something</string>
+    <string name="popular_text">Popular Item</string>
+    <string name="recommended_text">Recommended</string>
+    <string name="see_text">See All</string>
+    <string name="chair_1">Movable Chair</string>
+    <string name="price_1">$126.14</string>
+    <string name="chair_2">Modern Chair</string>
+    <string name="price_2">$111.29</string>
+    <string name="chair_3">Gray Chair</string>
+    <string name="price_3">$79.81</string>
+    <string name="chair_4">Garden Chair</string>
+    <string name="price_4">$94.35</string>
+</resources>
